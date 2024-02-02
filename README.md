@@ -1,7 +1,8 @@
 # Neha Kanki
 
 # 💫 About Me:
-I'm currently learning Web-devlopment<br>
+Welcome to my GitHub profile! I'm passionate about technology, and I've been on an exciting journey to become a proficient full-stack developer. 🚀
+
 
 
 # 💻 Tech Stack:
