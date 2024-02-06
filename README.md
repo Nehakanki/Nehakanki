@@ -2,26 +2,7 @@
 
 # 💫 About Me:
 Welcome to my GitHub profile! I'm passionate about technology, and I've been on an exciting journey to become a proficient full-stack developer. 🚀
-## 🌐 Full Stack Developer
 
-- 🎓 Pre-final Year BE Student at Vishwakarma Govt. Engineering College
-- 💻 Experienced in front-end technologies like HTML, CSS, and JavaScript.
-- 🌐 Skilled in creating dynamic and responsive web applications using Reactjs, ReduxToolkit, TailwindCSS.
-- 🚀 Currently exploring the vast world of back-end development with Nodejs & Framework: Expressjs.
-- 
-## 🧠 DSA Enthusiast
-
-- 📚 Actively learning and practicing Data Structures and Algorithms (DSA).
-- 💡 Solving coding questions on platforms like LeetCode to enhance problem-solving skills.
-- 🌐 Building a strong foundation in algorithmic thinking and problem-solving.
-
-## 🚀 Future Goals
-
-My journey is ongoing, and I'm excited about what the future holds:
-
-- 🛠️ Building more projects to showcase my skills.
-- 🤝 Collaborating on open-source projects.
-- 📚 Continuing to learn and stay up-to-date with the latest technologies and industry trends.
 
 Feel free to explore my repositories, and don't hesitate to reach out! Let's code, learn, and grow together. 🌱✨
 
